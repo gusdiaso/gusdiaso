@@ -53,3 +53,10 @@
 <img src="https://raw.githubusercontent.com/gusdiaso/gusdiaso/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h1>Olá, meu nome é Gustavo Dias</h1>
+<p></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gusdiaso&show_icons=true&locale=en" alt="gusdiaso" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusdiaso&" alt="gusdiaso" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusdiaso&show_icons=true&locale=en&layout=compact" alt="gusdiaso" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusdiaso" alt="gusdiaso" /></a></p>
