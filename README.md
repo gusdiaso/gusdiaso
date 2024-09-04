@@ -1,5 +1,3 @@
-<h2 align="left">Olá, Meu nome é Gustavo Dias!</h2>
-
 ###
 
 <br clear="both">
