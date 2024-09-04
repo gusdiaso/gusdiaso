@@ -4,9 +4,12 @@
 
 <br clear="both">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusdiaso&show_icons=true&locale=en" alt="gusdiaso" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusdiaso&show_icons=true&locale=en&layout=compact" alt="gusdiaso" />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusdiaso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusdiaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gusdiaso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusdiaso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -54,9 +57,5 @@
 
 ###
 
-<h1>Olá, meu nome é Gustavo Dias</h1>
-<p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gusdiaso&show_icons=true&locale=en" alt="gusdiaso" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusdiaso&" alt="gusdiaso" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusdiaso&show_icons=true&locale=en&layout=compact" alt="gusdiaso" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusdiaso" alt="gusdiaso" /></a></p>
+
+
