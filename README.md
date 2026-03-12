@@ -22,9 +22,6 @@ Sou movido por curiosidade, aprendizado contínuo e pela aplicação prática da
 
 ### 🎯 Projetos em Destaque  
 
-- 🎬 [**CineAnalytics** – Análise e Predição de Sucesso Cinematográfico](https://github.com/gusdiaso/cine_analytics)  
-  Aplicação de Machine Learning para prever notas IMDb e identificar fatores que influenciam o sucesso de um filme.  
-
 - 💰 [**CryptoPredict** – Previsão de Valores de Criptomoedas](https://github.com/gusdiaso/crypto_predict)  
   Modelagem de séries temporais usando LSTM para prever a variação de preços de criptomoedas.  
 
