@@ -41,7 +41,7 @@ Acredito que o caminho passa por arquiteturas de dados cada vez mais robustas e 
 - **Planejo o suficiente para começar.** Quebro problemas complexos em tarefas menores e detalho apenas o necessário para avançar.
 - **Entrego com testes e automação.** Versionamento, revisão, testes automatizados e deploy contínuo fazem parte do dia a dia.
 - **Documento e comunico com clareza,** em português e em inglês.
-- **Uso IA como ferramenta de produtividade, com revisão.** Trabalho com Claude e Claude Code para entender problemas, gerar código e documentação, e valido a lógica e a segurança do que é gerado antes de aplicar.
+- **Uso IA como ferramenta de produtividade, com revisão.** Trabalho com Claude, Claude Code e OpenCode para entender problemas, gerar código e documentação, e valido a lógica e a segurança do que é gerado antes de aplicar.
 
 ## Com o que gosto de trabalhar
 

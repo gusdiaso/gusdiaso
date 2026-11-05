@@ -41,7 +41,7 @@ I believe the path leads to increasingly robust data architectures and to the in
 - **I plan just enough to start.** I break complex problems into smaller tasks and detail only what is needed to move forward.
 - **I deliver with tests and automation.** Version control, review, automated tests and continuous deployment are part of my daily work.
 - **I document and communicate clearly,** in Portuguese and English.
-- **I use AI as a productivity tool, with review.** I work with Claude and Claude Code to understand problems and to generate code and documentation, and I validate the logic and security of what is generated before applying it.
+- **I use AI as a productivity tool, with review.** I work with Claude, Claude Code and OpenCode to understand problems and to generate code and documentation, and I validate the logic and security of what is generated before applying it.
 
 ## What I enjoy working with
 
