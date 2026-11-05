@@ -42,14 +42,13 @@ Acredito que o caminho passa por arquiteturas de dados cada vez mais robustas e 
 - **Entrego com testes e automação.** Versionamento, revisão, testes automatizados e deploy contínuo fazem parte do dia a dia.
 - **Documento e comunico com clareza,** em português e em inglês.
 - **Uso IA como ferramenta de produtividade, com revisão.** Trabalho com Claude e Claude Code para entender problemas, gerar código e documentação, e valido a lógica e a segurança do que é gerado antes de aplicar.
-- **Lidero pelo exemplo e pelo apoio ao time,** com experiência em organizar equipes, distribuir tarefas e criar programas de capacitação técnica.
 
 ## Com o que gosto de trabalhar
 
 - Plataformas de dados modernas e arquitetura lakehouse.
 - Orquestração e qualidade de dados, onde a engenharia mais protege o negócio.
 - Automação de operações de dados, incluindo o uso de LLMs para acelerar diagnóstico e sustentação.
-- Fazer a ponte entre engenharia de dados e machine learning.
+- Fazer a ponte entre engenharia de dados e inteligência artificial.
 
 ## Tecnologias
 

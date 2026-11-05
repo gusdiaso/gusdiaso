@@ -42,14 +42,13 @@ I believe the path leads to increasingly robust data architectures and to the in
 - **I deliver with tests and automation.** Version control, review, automated tests and continuous deployment are part of my daily work.
 - **I document and communicate clearly,** in Portuguese and English.
 - **I use AI as a productivity tool, with review.** I work with Claude and Claude Code to understand problems and to generate code and documentation, and I validate the logic and security of what is generated before applying it.
-- **I lead by example and by supporting the team,** with experience organizing teams, distributing tasks and creating technical training programs.
 
 ## What I enjoy working with
 
 - Modern data platforms and lakehouse architecture.
 - Orchestration and data quality, where engineering protects the business the most.
 - Automating data operations, including the use of LLMs to speed up diagnosis and support.
-- Bridging data engineering and machine learning.
+- Bridging data engineering and artificial intelligence.
 
 ## Technologies
 
