@@ -6,12 +6,12 @@
 
 ### Engenheiro de Dados
 
-Databricks · dbt · Airflow · Python · SQL
+Databricks · dbt · Airflow · Python · PySpark · SQL · Docker
 
 Rio de Janeiro, Brasil · Engenheiro de Computação (UERJ) · Databricks Certified Data Engineer Associate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusdiaso/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavou.dias@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gustavou.dias@gmail.com)
 
 </div>
 
@@ -92,4 +92,4 @@ Português (nativo) · Inglês (intermediário, leitura técnica e reuniões)
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/gusdiaso/) · [gustavou.dias@gmail.com](mailto:gustavou.dias@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gusdiaso/) · [gustavou.dias@gmail.com](https://mail.google.com/mail/?view=cm&to=gustavou.dias@gmail.com)
